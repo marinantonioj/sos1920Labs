@@ -1,0 +1,90 @@
+    1  cd /workspace/sos1920Lab; clear
+    2  export LANG=en_US.UTF-8;export LANGUAGE=en_US.UTF-8;locale-gen;source ~/.profile; [ ! -f ~/.custom_env ] || source ~/.custom_env; clear;
+    3  cd /workspace/sos1920Lab; clear
+    4  mkdir sos1920-labs
+    5  cd sos1920-labs/
+    6  echo "# sos1920-labs" >> README.md
+    7  ls
+    8  git init
+    9  ls -la
+   10  git commit -m "first commit"
+   11  cd /workspace/sos1920Lab; clear
+   12  export LANG=en_US.UTF-8;export LANGUAGE=en_US.UTF-8;locale-gen;source ~/.profile; [ ! -f ~/.custom_env ] || source ~/.custom_env; clear;
+   13  cd /workspace/sos1920Lab; clear
+   14  git remote add origin https://github.com/marinantonioj/sos1920Labs.git
+   15  cd sos1920-labs/
+   16  git remote add origin https://github.com/marinantonioj/sos1920Labs.git
+   17  git push -u origin master
+   18  git commit -m "first commit"
+   19  cd /workspace/sos1920Lab; clear
+   20  export LANG=en_US.UTF-8;export LANGUAGE=en_US.UTF-8;locale-gen;source ~/.profile; [ ! -f ~/.custom_env ] || source ~/.custom_env; clear;
+   21  cd /workspace/sos1920Lab; clear
+   22  export LANG=en_US.UTF-8;export LANGUAGE=en_US.UTF-8;locale-gen;source ~/.profile; [ ! -f ~/.custom_env ] || source ~/.custom_env; clear;
+   23  cd /workspace/sos1920Lab; clear
+   24  cd sos1920-labs/
+   25  git remote add origin https://github.com/marinantonioj/sos1920Labs.git
+   26  git push -u origin master
+   27  git commit -m "first commit"
+   28  git config --global user.email "antonio_josemr@hotmail.com"
+   29  git commit -m "first commit"
+   30  git push -u origin master
+   31  cd /workspace/sos1920Lab; clear
+   32  export LANG=en_US.UTF-8;export LANGUAGE=en_US.UTF-8;locale-gen;source ~/.profile; [ ! -f ~/.custom_env ] || source ~/.custom_env; clear;
+   33  cd /workspace/sos1920Lab; clear
+   34  export LANG=en_US.UTF-8;export LANGUAGE=en_US.UTF-8;locale-gen;source ~/.profile; [ ! -f ~/.custom_env ] || source ~/.custom_env; clear;
+   35  cd /workspace/sos1920Lab; clear
+   36  export LANG=en_US.UTF-8;export LANGUAGE=en_US.UTF-8;locale-gen;source ~/.profile; [ ! -f ~/.custom_env ] || source ~/.custom_env; clear;
+   37  cd /workspace/sos1920Lab; clear
+   38  export LANG=en_US.UTF-8;export LANGUAGE=en_US.UTF-8;locale-gen;source ~/.profile; [ ! -f ~/.custom_env ] || source ~/.custom_env; clear;
+   39  cd /workspace/sos1920Lab; clear
+   40  export LANG=en_US.UTF-8;export LANGUAGE=en_US.UTF-8;locale-gen;source ~/.profile; [ ! -f ~/.custom_env ] || source ~/.custom_env; clear;
+   41  cd /workspace/sos1920Lab; clear
+   42  export LANG=en_US.UTF-8;export LANGUAGE=en_US.UTF-8;locale-gen;source ~/.profile; [ ! -f ~/.custom_env ] || source ~/.custom_env; clear;
+   43  cd /workspace/sos1920Lab; clear
+   44  git push -u origin master
+   45  cd sos1920-labs/
+   46  git push -u origin master
+   47  cd ..
+   48  rm sos1920-labs/
+   49  echo "# sos1920Labs" >> README.md
+   50  cd sos1920-labs/
+   51  git remote add origin https://github.com/marinantonioj/sos1920Labs.git
+   52  git push -u origin master
+   53  clear
+   54  cd ..
+   55  echo "# sos1920Labs" >> README.md
+   56  git init
+   57  git add README.md
+   58  git commit -m "first commit"
+   59  git remote add origin https://github.com/marinantonioj/sos1920Labs.git
+   60  git push -u origin master
+   61  git config credential.helper store
+   62  git config --global credential.helper 'cache --timeout 7200'
+   63  cd /workspace/sos1920Lab; clear
+   64  export LANG=en_US.UTF-8;export LANGUAGE=en_US.UTF-8;locale-gen;source ~/.profile; [ ! -f ~/.custom_env ] || source ~/.custom_env; clear;
+   65  cd /workspace/sos1920Lab; clear
+   66  git checkout -b l04
+   67  cd /workspace/sos1920Lab; clear
+   68  export LANG=en_US.UTF-8;export LANGUAGE=en_US.UTF-8;locale-gen;source ~/.profile; [ ! -f ~/.custom_env ] || source ~/.custom_env; clear;
+   69  cd /workspace/sos1920Lab; clear
+   70  export LANG=en_US.UTF-8;export LANGUAGE=en_US.UTF-8;locale-gen;source ~/.profile; [ ! -f ~/.custom_env ] || source ~/.custom_env; clear;
+   71  cd /workspace/sos1920Lab; clear
+   72  node -v
+   73  npm -v
+   74  npm init
+   75  touch index.js
+   76  node index.js
+   77  npm start
+   78  npm install cool-ascii-faces
+   79  npm start
+   80  npm stars
+   81  npm start
+   82  touch .gitignore
+   83  rm -rf node_modules
+   84  git add .
+   85  git commit -m "add .gitignore"
+   86  git push
+   87  git push -u origin l04
+   88  npm install express --save
+   89  npm start
+   90  history > history.txt
