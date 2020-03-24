@@ -1,0 +1,23 @@
+{
+  "name": "l07",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marinantonioj/sos1920Labs.git"
+  },
+  "author": "marinantonioj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marinantonioj/sos1920Labs/issues"
+  },
+  "homepage": "https://github.com/marinantonioj/sos1920Labs#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0"
+  }
+}
